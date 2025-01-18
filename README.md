@@ -1,7 +1,7 @@
-# GiveStation Donation SDK Documentation
+# GiveStation Donation widget Documentation | Accept public goods donation anywhere!
 
 ## Overview
-The GiveStation Donation SDK provides an easy and customizable way to integrate crypto donation functionalities into your platforms. It supports multiple blockchain networks, various embed options, and extensive customization for seamless integration into your web applications or content platforms.
+The GiveStation Donation widget provides an easy and customizable way to integrate crypto donation functionalities into your platforms. It supports multiple blockchain networks, various embed options, and extensive customization for seamless integration into your web applications or content platforms.
 
 ---
 
